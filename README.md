@@ -1,4 +1,5 @@
 - Hi, I’m @divonr
+- Mainly program in Python and C#
 - I’m currently studying economics and statistics, at the Hebrew University in JLM
 - You can reach me at divon.rozen@mail.huji.ac.il
 
